@@ -1,2 +1,3 @@
-hello :) 
-new to coding
+a student
+a swimmer
+a learner 
