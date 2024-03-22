@@ -1,1 +1,1 @@
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jameshlim12)](https://github.com/KnlnKS/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/jameshlim12?theme=unicorn&border=0&radius=20)
