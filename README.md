@@ -1,1 +1,1 @@
-"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do." - Pelé
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jameshlim12)](https://github.com/KnlnKS/leetcode-stats)
